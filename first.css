@@ -1,0 +1,89 @@
+.head {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-size-adjust:25px;
+  }
+  #bold{
+      color: rgb(33, 45, 30);
+  }
+  #about{
+      color: white;
+  }
+
+#footer{
+    background-color: black;
+    margin:-10px;
+}
+h1{ 
+    font-size: 50px;
+    color: black;
+}
+
+#head2{
+    color: rgb(255, 187, 0);
+    text-decoration: underline;
+}
+#head3{
+    color: rgb(255, 187, 0);
+    text-decoration: underline;
+}
+#head4{
+    color: rgb(255, 187, 0);
+    text-decoration: underline;
+}
+
+#data{
+    font-size: 20px;
+}
+
+.google{
+    text-decoration-color:none;
+    color: aliceblue
+}
+
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#log{
+    color: white;
+    font-size: 20px;
+}
+
+li{
+    display: inline;
+    margin-left: 20px;
+}
+
+ul{
+    position: right;
+}
+  #tab{
+     color: black;
+  }
+
+  .center {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+    }
+
+  #color{
+    text-decoration-color: white;
+    color: white;
+  }
+
+  .text{
+    font-size: 20px;
+    color: black;
+}
+
+.text2{
+    font-size: 20px;
+    color: white;
+}
+
